@@ -1,4 +1,4 @@
-![](https://github.com/vikram-dewasi123/vikram-dewasi123/blob/main/Github%20Banner.png)
+![banner](https://media.licdn.com/dms/image/D4D16AQHnZot_hm9w_w/profile-displaybackgroundimage-shrink_350_1400/0/1694695442349?e=1710979200&v=beta&t=xqXRO5aQaZ8UPvlZDwkHz7i8A5nghyNIVZTbfPn-BZs)
 <h1 align="center">Hi 👋, I'm vikram dewasi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
