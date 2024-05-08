@@ -30,6 +30,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram-dewasi123&theme=transparent&show_icons=true&locale=en&layout=donut-vertical" alt="vikram-dewasi123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-choudhary-123&theme=tokyonight-duo" alt="vikram-dewasi123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-dewasi123&theme=tokyonight-duo" alt="vikram-dewasi123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram-dewasi123&theme=transparent&show_icons=true&locale=en" alt="vikram-dewasi123" /></p>
